@@ -1,6 +1,13 @@
+<p align="center">
+    <img src='assets/tvip-logo.png' alt='Логотип' width='15%'>
+</p>
+
 # Excel to M3U Converter
 
 Этот проект предназначен для конвертации списка каналов из Excel-файла в M3U плейлист.
+
+> [!WARNING]
+> Обратите внимание, конвертер поддерживает только excel из импорта каналов в TVIP TMS
 
 ## Установка
 
