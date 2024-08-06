@@ -48,5 +48,5 @@ python convert.py
 
 ## Лицензия
 
-Этот проект лицензируется под [MIT License](https://github.com/reques6e/TVIPChannelToM3u/blob/main/README.md).
+Этот проект лицензируется под [MIT License](https://github.com/reques6e/TVIPChannelToM3u/blob/main/LICENSE).
 
